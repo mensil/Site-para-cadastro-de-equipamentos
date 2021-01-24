@@ -1,0 +1,74 @@
+
+body{
+	font-family: Helvetica, sans-serif;
+}
+
+/***************Configurando o coantainer ***************/
+
+#container{
+background: #f48d0c url(imagens/tela-inteira.jpg) no-repeat;
+width: 1920px;
+height: 903px;
+margin: 0 auto;
+position: absolute;
+}
+
+/***************Configurando a Tela de login ***************/
+
+
+#tela-login{
+	width: 860px;
+	height: 260px;
+	background: #80c1ed ;
+	margin-left: 520px;
+	margin-top: 291px;
+	opacity: 0.9;
+}
+
+/***************Configurando os inputs ***************/
+
+.email{
+	font-size: 40px;
+	background: #fff;
+	width: 800px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 48px;
+	border:none;
+	text-align: center;
+}
+
+
+
+.senha{
+	font-size: 40px;
+	background: #fff;
+	width: 800px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border:none;
+	text-align: center;
+}
+
+.submit{
+	color: #fff;
+	font-size: 40px;
+	background:#f48d0c;
+	width: 804px;
+	height: 50px;
+	margin-left: 30px;
+	border:1px solid #ff9a21;
+}
+
+/***************Configurando o cabeçalho***************/
+
+footer{
+	position: relative;
+	margin-top: 360px; 
+	margin-left: 900px;
+	clear: both;
+}
+
+
+
